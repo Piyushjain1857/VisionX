@@ -1,0 +1,6 @@
+/* Reseting default root styles to allow full-width app layout */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
